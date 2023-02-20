@@ -1,0 +1,16 @@
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\bin\Debug\Opgave1.exe.config
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\bin\Debug\Opgave1.exe
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\bin\Debug\Opgave1.pdb
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\obj\Debug\Opgave1.csproj.AssemblyReference.cache
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\obj\Debug\Opgave1.csproj.SuggestedBindingRedirects.cache
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\obj\Debug\MainWindow.g.cs
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\obj\Debug\App.g.cs
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\obj\Debug\Opgave1_MarkupCompile.cache
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\obj\Debug\Opgave1_MarkupCompile.lref
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\obj\Debug\MainWindow.baml
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\obj\Debug\Opgave1.g.resources
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\obj\Debug\Opgave1.Properties.Resources.resources
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\obj\Debug\Opgave1.csproj.GenerateResource.cache
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\obj\Debug\Opgave1.csproj.CoreCompileInputs.cache
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\obj\Debug\Opgave1.exe
+D:\Users\OneDrive\4. Sem\C#\CSharp\Opgave1\obj\Debug\Opgave1.pdb
