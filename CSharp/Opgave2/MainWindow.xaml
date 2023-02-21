@@ -17,8 +17,8 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <Button Content="Button" HorizontalAlignment="Center" Height="200" VerticalAlignment="Top" Width="180" FontSize="30" Click="Button_Click" Grid.Column="1" Margin="0,96,0,0"/>
-        <TextBlock x:Name="txtBox2" Grid.Column="2" HorizontalAlignment="Center" Margin="0,192,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
-        <TextBlock x:Name="txtBox1" HorizontalAlignment="Center" Margin="0,195,0,0" TextWrapping="Wrap" Text="Stuff" VerticalAlignment="Top"/>
+        <Label x:Name="txtBox1" Content="Lebal" HorizontalAlignment="Center" VerticalAlignment="Top" Height="116" Width="120" FontSize="42" Margin="0,158,0,0"/>
+        <Label x:Name="txtBox2" Content="Label" HorizontalAlignment="Center" VerticalAlignment="Top" Height="116" Width="120" FontSize="42" Margin="0,158,0,0" Grid.Column="2"/>
 
     </Grid>
 </Window>

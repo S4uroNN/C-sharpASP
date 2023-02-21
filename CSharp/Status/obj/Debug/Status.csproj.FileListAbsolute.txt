@@ -1,0 +1,16 @@
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\bin\Debug\Status.exe.config
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\bin\Debug\Status.exe
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\bin\Debug\Status.pdb
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\obj\Debug\Status.csproj.AssemblyReference.cache
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\obj\Debug\Status.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\obj\Debug\MainWindow.g.cs
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\obj\Debug\App.g.cs
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\obj\Debug\Status_MarkupCompile.cache
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\obj\Debug\Status_MarkupCompile.lref
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\obj\Debug\MainWindow.baml
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\obj\Debug\Status.g.resources
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\obj\Debug\Status.Properties.Resources.resources
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\obj\Debug\Status.csproj.GenerateResource.cache
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\obj\Debug\Status.csproj.CoreCompileInputs.cache
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\obj\Debug\Status.exe
+C:\Users\Alin\OneDrive\4. Sem\C#\CSharp\Status\obj\Debug\Status.pdb

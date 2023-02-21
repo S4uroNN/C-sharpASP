@@ -27,11 +27,11 @@ namespace Opgave2
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            var text1 = txtBox1.Text;
-            var text2 = txtBox2.Text;
+            var text1 = txtBox1.Content;
+            var text2 = txtBox2.Content;
 
-            txtBox1.Text = text2;
-            txtBox2.Text = text1;
+            txtBox1.Content = text2;
+            txtBox2.Content = text1;
         }
     }
 }

@@ -1,0 +1,30 @@
+﻿<Window x:Class="Status.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Status"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel LastChildFill="False">
+            <Menu DockPanel.Dock="Top" Height="20">
+                <MenuItem x:Name ="file" Header ="File">
+                    <MenuItem Name ="open" Header="Open" Click  ="open_Click"/>
+                    <MenuItem Name ="save" Header="Save as" Click  ="save_Click"/>
+                    <MenuItem Name ="quit" Header="Exit" Click  ="quit_Click"/>
+                </MenuItem>
+                <MenuItem x:Name="help" Header="Help">
+                    <MenuItem Name ="about" Header="About" Click  ="about_Click"/>
+                </MenuItem>
+            </Menu>
+
+            <StatusBar x:Name="statusBar" DockPanel.Dock ="Bottom">
+                <StatusBarItem>
+                    <TextBlock x:Name="lastClicked" Text="Last Clicked: "/>
+                </StatusBarItem>
+                
+            </StatusBar>
+        </DockPanel>
+    </Grid>
+</Window>
