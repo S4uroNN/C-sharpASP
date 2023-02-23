@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lektion3/1.0.0": {
+        "dependencies": {
+          "Lektion3-Shape": "1.0.0",
+          "Lektion3-Værksted": "1.0.0",
+          "Time": "1.0.0"
+        },
+        "runtime": {
+          "Lektion3.dll": {}
+        }
+      },
+      "Lektion3-Shape/1.0.0": {
+        "runtime": {
+          "Lektion3-Shape.dll": {}
+        }
+      },
+      "Lektion3-Værksted/1.0.0": {
+        "runtime": {
+          "Lektion3-Værksted.dll": {}
+        }
+      },
+      "Time/1.0.0": {
+        "runtime": {
+          "Time.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lektion3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lektion3-Shape/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lektion3-Værksted/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Time/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

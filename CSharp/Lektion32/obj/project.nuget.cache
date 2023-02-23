@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "p+Xfj+smujG+Ue2Xhhso201j5eWpf4X2p3b7WBc42V1dH6aewEyFIh6/2Y8ck4f9BcyeIsjVon1uXrQmkJYk3g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion32\\Lektion3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Shape\\Lektion3-Shape.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Shape\\Lektion3-Shape.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Time\\Time.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Time\\Time.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3-Værksted\\Lektion3-Værksted.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3-Værksted\\Lektion3-Værksted.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

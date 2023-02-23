@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\Time\\Time.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\PowerPlant\\PowerPlant.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\PowerPlant\\PowerPlant.csproj",
+        "projectName": "PowerPlant",
+        "projectPath": "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\PowerPlant\\PowerPlant.csproj",
+        "packagesPath": "C:\\Users\\Frand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\PowerPlant\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Frand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\Time\\Time.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\Time\\Time.csproj",
+        "projectName": "Lektion4",
+        "projectPath": "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\Time\\Time.csproj",
+        "packagesPath": "C:\\Users\\Frand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\Lektion4\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Frand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\PowerPlant\\PowerPlant.csproj": {
+                "projectPath": "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\PowerPlant\\PowerPlant.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

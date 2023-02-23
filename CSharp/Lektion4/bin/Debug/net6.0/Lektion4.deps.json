@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lektion4/1.0.0": {
+        "dependencies": {
+          "PlayingCards": "1.0.0",
+          "PowerPlant": "1.0.0"
+        },
+        "runtime": {
+          "Lektion4.dll": {}
+        }
+      },
+      "PlayingCards/1.0.0": {
+        "runtime": {
+          "PlayingCards.dll": {}
+        }
+      },
+      "PowerPlant/1.0.0": {
+        "runtime": {
+          "PowerPlant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lektion4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlayingCards/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PowerPlant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

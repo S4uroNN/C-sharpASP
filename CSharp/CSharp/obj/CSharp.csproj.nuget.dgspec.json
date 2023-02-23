@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\OneDrive\\4. Sem\\C#\\CSharp\\CSharp\\CSharp.csproj": {}
+    "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\CSharp\\CSharp.csproj": {}
   },
   "projects": {
-    "D:\\Users\\OneDrive\\4. Sem\\C#\\CSharp\\CSharp\\CSharp.csproj": {
+    "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\CSharp\\CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\OneDrive\\4. Sem\\C#\\CSharp\\CSharp\\CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\CSharp\\CSharp.csproj",
         "projectName": "CSharp",
-        "projectPath": "D:\\Users\\OneDrive\\4. Sem\\C#\\CSharp\\CSharp\\CSharp.csproj",
+        "projectPath": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\CSharp\\CSharp.csproj",
         "packagesPath": "C:\\Users\\Alin\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\OneDrive\\4. Sem\\C#\\CSharp\\CSharp\\obj\\",
+        "outputPath": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alin\\AppData\\Roaming\\NuGet\\NuGet.Config",

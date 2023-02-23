@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\PlayingCards\\PlayingCards.csproj",
+      "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\PowerPlant\\PowerPlant.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion4\\Lektion4.csproj",
+      "projectName": "Lektion4",
+      "projectPath": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion4\\Lektion4.csproj",
+      "packagesPath": "C:\\Users\\Alin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion4\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Alin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\PlayingCards\\PlayingCards.csproj": {
+              "projectPath": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\PlayingCards\\PlayingCards.csproj"
+            },
+            "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\PowerPlant\\PowerPlant.csproj": {
+              "projectPath": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\PowerPlant\\PowerPlant.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\PlayingCards\\PlayingCards.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\PlayingCards\\PlayingCards.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\PowerPlant\\PowerPlant.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\PowerPlant\\PowerPlant.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

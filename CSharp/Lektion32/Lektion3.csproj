@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lektion3-Værksted\Lektion3-Værksted.csproj" />
+    <ProjectReference Include="..\Shape\Lektion3-Shape.csproj" />
+    <ProjectReference Include="..\Time\Time.csproj" />
+  </ItemGroup>
+
+</Project>

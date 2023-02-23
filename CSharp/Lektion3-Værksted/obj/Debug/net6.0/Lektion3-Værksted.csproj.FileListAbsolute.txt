@@ -1,0 +1,12 @@
+C:\Users\Frand\Source\Repos\MathiasBeringFrandsen\UndervisningC-NET\Lektion3-Værksted\bin\Debug\net6.0\Lektion3-Værksted.deps.json
+C:\Users\Frand\Source\Repos\MathiasBeringFrandsen\UndervisningC-NET\Lektion3-Værksted\bin\Debug\net6.0\Lektion3-Værksted.dll
+C:\Users\Frand\Source\Repos\MathiasBeringFrandsen\UndervisningC-NET\Lektion3-Værksted\bin\Debug\net6.0\Lektion3-Værksted.pdb
+C:\Users\Frand\Source\Repos\MathiasBeringFrandsen\UndervisningC-NET\Lektion3-Værksted\obj\Debug\net6.0\Lektion3-Værksted.csproj.AssemblyReference.cache
+C:\Users\Frand\Source\Repos\MathiasBeringFrandsen\UndervisningC-NET\Lektion3-Værksted\obj\Debug\net6.0\Lektion3-Værksted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frand\Source\Repos\MathiasBeringFrandsen\UndervisningC-NET\Lektion3-Værksted\obj\Debug\net6.0\Lektion3-Værksted.AssemblyInfoInputs.cache
+C:\Users\Frand\Source\Repos\MathiasBeringFrandsen\UndervisningC-NET\Lektion3-Værksted\obj\Debug\net6.0\Lektion3-Værksted.AssemblyInfo.cs
+C:\Users\Frand\Source\Repos\MathiasBeringFrandsen\UndervisningC-NET\Lektion3-Værksted\obj\Debug\net6.0\Lektion3-Værksted.csproj.CoreCompileInputs.cache
+C:\Users\Frand\Source\Repos\MathiasBeringFrandsen\UndervisningC-NET\Lektion3-Værksted\obj\Debug\net6.0\Lektion3-Værksted.dll
+C:\Users\Frand\Source\Repos\MathiasBeringFrandsen\UndervisningC-NET\Lektion3-Værksted\obj\Debug\net6.0\refint\Lektion3-Værksted.dll
+C:\Users\Frand\Source\Repos\MathiasBeringFrandsen\UndervisningC-NET\Lektion3-Værksted\obj\Debug\net6.0\Lektion3-Værksted.pdb
+C:\Users\Frand\Source\Repos\MathiasBeringFrandsen\UndervisningC-NET\Lektion3-Værksted\obj\Debug\net6.0\ref\Lektion3-Værksted.dll
