@@ -1,0 +1,28 @@
+﻿
+@{
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>RockBands</title>
+</head>
+<body>
+    <div>
+        @{
+            int id = 1;
+            foreach (var item in ViewBag.bands)
+            {
+
+                <div> @id: @item </div>
+                id++;
+            }
+        }
+       
+
+    </div>
+</body>
+</html>

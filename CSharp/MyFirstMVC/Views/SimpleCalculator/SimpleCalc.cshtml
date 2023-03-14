@@ -1,0 +1,37 @@
+﻿
+@{
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SimpleCalc</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+                <p>
+                @Html.Label("First Number")<br/>
+                @Html.TextBox("FirstNumber")
+                </p>
+                <p>
+                @Html.Label("Second Number")<br/>
+                @Html.TextBox("SecondNumber")
+                </p>
+
+                <p>
+                    <input name="operator" type= "submit" value="+">
+                    <input name="operator" type= "submit" value="-">
+                    <input name="operator" type= "submit" value="*">
+                    <input name="operator" type= "submit" value="/">
+                </p>
+        }
+        <p>
+            Total: @ViewBag.Total
+        </p>
+    </div>
+</body>
+</html>
