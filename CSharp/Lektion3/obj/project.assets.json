@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Frand\\.nuget\\packages\\": {}
+    "C:\\Users\\Alin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Frand\\Source\\Repos\\MathiasBeringFrandsen\\UndervisningC-NET\\Lektion3\\Lektion3n.csproj",
+      "projectUniqueName": "D:\\Users\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3\\Lektion3n.csproj",
       "projectName": "Lektion3n",
-      "projectPath": "C:\\Users\\Frand\\Source\\Repos\\MathiasBeringFrandsen\\UndervisningC-NET\\Lektion3\\Lektion3n.csproj",
-      "packagesPath": "C:\\Users\\Frand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Frand\\Source\\Repos\\MathiasBeringFrandsen\\UndervisningC-NET\\Lektion3\\obj\\",
+      "projectPath": "D:\\Users\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3\\Lektion3n.csproj",
+      "packagesPath": "C:\\Users\\Alin\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Frand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
