@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\Lektion3-Værksted\\Lektion3-Værksted.csproj": {}
+    "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3-Værksted\\Lektion3-Værksted.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\Lektion3-Værksted\\Lektion3-Værksted.csproj": {
+    "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3-Værksted\\Lektion3-Værksted.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\Lektion3-Værksted\\Lektion3-Værksted.csproj",
+        "projectUniqueName": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3-Værksted\\Lektion3-Værksted.csproj",
         "projectName": "Lektion3-Værksted",
-        "projectPath": "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\Lektion3-Værksted\\Lektion3-Værksted.csproj",
-        "packagesPath": "C:\\Users\\Frand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Frand\\source\\repos\\MathiasBeringFrandsen\\UndervisningC-NET\\Lektion3-Værksted\\obj\\",
+        "projectPath": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3-Værksted\\Lektion3-Værksted.csproj",
+        "packagesPath": "C:\\Users\\Alin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3-Værksted\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Frand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

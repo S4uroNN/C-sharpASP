@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3\\Lektion3n.csproj",
+      "projectUniqueName": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3\\Lektion3n.csproj",
       "projectName": "Lektion3n",
-      "projectPath": "D:\\Users\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3\\Lektion3n.csproj",
+      "projectPath": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3\\Lektion3n.csproj",
       "packagesPath": "C:\\Users\\Alin\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3\\obj\\",
+      "outputPath": "C:\\Users\\Alin\\OneDrive\\4. Sem\\C#\\CSharp\\Lektion3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
