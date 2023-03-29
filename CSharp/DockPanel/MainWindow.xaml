@@ -8,9 +8,9 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <DockPanel LastChildFill="True">
-            <Button x:Name="btnLeft"  Content="Left" DockPanel.Dock="Left" Width="40"/>
+            <Button x:Name="btnLeft"  Content="Esben" DockPanel.Dock="Left" Width="40"/>
             <Button x:Name="btnRight" Content="Right" DockPanel.Dock="Right" Width="40"/>
-            <Button x:Name="btnUp" Content="Up" DockPanel.Dock="Top" Height="50" Click="btnUp_Click_1"/>
+            <Button x:Name="btnUp" Content="Up" DockPanel.Dock="Top" Height="50"/>
             <Button x:Name="btnDown" Content="Down" DockPanel.Dock="Bottom" Height="50"/>
             <TextBox x:Name="txtBox1" TextWrapping="Wrap" Text="" HorizontalContentAlignment="Center"/>
         </DockPanel>
