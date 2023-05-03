@@ -1,0 +1,17 @@
+﻿@model Lektion15.Models.Person
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+@using (Html.BeginForm("Index", "Person", FormMethod.Post))
+{
+
+    //@Html.EditorForModel();
+    @Html.EditorFor(model => model.FirstName)
+    @Html.EditorFor(model => model.LastName)
+    @Html.EditorFor(model => model.Age)
+        <input type="submit" value="Gem" />
+}
